@@ -1,0 +1,11 @@
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\bin\Debug\Monty Hall Problemi.exe.config
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\bin\Debug\Monty Hall Problemi.exe
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\bin\Debug\Monty Hall Problemi.pdb
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty Hall Problemi.csprojResolveAssemblyReference.cache
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty_Hall_Problemi.Form1.resources
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty_Hall_Problemi.Properties.Resources.resources
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty Hall Problemi.csproj.GenerateResource.Cache
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty Hall Problemi.exe
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty Hall Problemi.pdb
+c:\users\omen\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty_Hall_Problemi.Form2.resources
+C:\Users\OMEN\documents\visual studio 2015\Projects\Monty Hall Problemi\Monty Hall Problemi\obj\Debug\Monty_Hall_Problemi.Form3.resources
